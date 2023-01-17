@@ -1,0 +1,1 @@
+vidaPlayer -=100;

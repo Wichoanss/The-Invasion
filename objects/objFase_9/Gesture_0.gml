@@ -1,0 +1,1 @@
+room_goto(Fase_9)
